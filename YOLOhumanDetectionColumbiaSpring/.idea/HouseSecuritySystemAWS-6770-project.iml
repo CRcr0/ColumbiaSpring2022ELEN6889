@@ -4,9 +4,13 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/yolov5env" />
+      <excludeFolder url="file://$MODULE_DIR$/yolodetect" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (yolov5env)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (yolodetect)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
