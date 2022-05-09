@@ -86,3 +86,6 @@ SHARD_ITERATOR=$(aws kinesis get-shard-iterator --shard-id shardId-000000000000 
 
 3.How to start this facial recognition application
 1 open the video and create a live stream 2. start the rekognition processor 3 check whether the processor is under a running state. 4. Read the data from kinesis data stream 5. Close the processor 6. Close the live stream
+    
+    
+    Among YOLO, run detection.py
